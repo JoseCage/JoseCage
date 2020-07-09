@@ -16,7 +16,7 @@ I'm currently working on Estilo Bantu (not a technological product). A clothes b
 
      A discord bot for an software developer community a contributed to
 
-  - [Fullstack Jobs](https://github.com/JoseCage/fulljobs)
+  - [Fullstack Jobs](https://fulljobs.josecage.xyz/)
     
     A job boards for fullstack position. The Jobs actually comes from a third services (scraped and saved to a database)
 
