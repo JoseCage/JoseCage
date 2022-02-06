@@ -16,10 +16,13 @@ I'm currently working on Estilo Bantu (not a technological product). A clothes b
 
      A discord bot for an software developer community a contributed to
 
-  - [Fullstack Jobs](https://fulljobs.josecage.xyz/)
+  - [Fullstack Jobs](https://fulljobs.josecage.xyz/) (:bug: API only)
     
     A job boards for fullstack position. The Jobs actually comes from a third services (scraped and saved to a database)
 
  - [Sales Panel](https://github.com/linkasoftwares/salespanel) (:bug: not finished)
 
     A dashboard for sales management 
+
+
+<a href="https://app.daily.dev/josecage"><img src="https://api.daily.dev/devcards/031a37683fd94348ae2dcdea3d7e20df.png?r=al5" width="300" alt="José Cage's Dev Card"/></a>
